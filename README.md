@@ -36,7 +36,7 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## License
 
-This project is licensed under the Creative Commons Attribution 4.0 International License. See the [LICENSE](https://creativecommons.org/licenses/by/4.0/) file for details.
+This project is licensed under the Creative Commons Attribution 4.0 International License. See the [LICENSE](https://creativecommons.org/licenses/by/4.0/) for details.
 
 ## Contact
 
